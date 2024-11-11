@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ankan Ghosh!
 
-I'm a passionate **Full-Stack Web Developer** and **Mobile App Developer** with over 2.5 years of experience in building web applications and mobile solutions. I specialize in **React**, **PHP**, **Laravel**, **Flutter**, **iOS**, and **Android** development. I'm always eager to learn new technologies and continuously improve my skills. 🚀
+I'm a passionate **Full-Stack Web Developer** and **Mobile App Developer** with over 2.5 years of experience in building web applications and mobile solutions. I specialize in **React**, **PHP**, **Laravel**, **Node Js**, **HTML**, **CSS**, **JS**, and **Android** development. I'm always eager to learn new technologies and continuously improve my skills. 🚀
 
 ## 🔧 Technologies & Tools I Love
 - **Frontend**: HTML5, CSS3, JavaScript, React, Vue.js, Bootstrap
