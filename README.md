@@ -5,7 +5,7 @@ I'm a passionate **Full-Stack Web Developer** and **Mobile App Developer** with 
 ## 🔧 Technologies & Tools I Love
 - **Frontend**: HTML5, CSS3, JavaScript, React, Vue.js, Bootstrap
 - **Backend**: PHP, Laravel, CodeIgniter, Node.js
-- **Mobile Development**: Flutter, iOS (Swift), Android (Kotlin)
+- **Mobile Development**: React Native
 - **Database**: MySQL, PostgreSQL, MongoDB
 - **DevOps**: Docker, GitHub Actions, CI/CD
 - **Others**: REST APIs, GraphQL, Firebase, AWS
