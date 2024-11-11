@@ -20,8 +20,8 @@ I'm a passionate **Full-Stack Web Developer** and **Mobile App Developer** with 
 
 ## 🔗 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankan-ghosh-a21a83167/)
-- 🌐 [Portfolio](https://ankan-ghosh.in/) *(Replace with your link)*
-- 📝 [Blog](https://ankan-ghosh.in/) *(Replace with your link)*
+- 🌐 [Portfolio](https://ankan-ghosh.in/)
+- 📝 [Blog](https://ankan-ghosh.in/)
 
 ---
 
