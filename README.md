@@ -19,9 +19,9 @@ I'm a passionate **Full-Stack Web Developer** and **Mobile App Developer** with 
 ![Ankan Ghosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankanghosh&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ankanghosh)
-- 🌐 [Portfolio](https://yourportfolio.com) *(Replace with your link)*
-- 📝 [Blog](https://yourblog.com) *(Replace with your link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankan-ghosh-a21a83167/)
+- 🌐 [Portfolio](https://ankan-ghosh.in/) *(Replace with your link)*
+- 📝 [Blog](https://ankan-ghosh.in/) *(Replace with your link)*
 
 ---
 
